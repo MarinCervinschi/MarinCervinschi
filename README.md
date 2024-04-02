@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Contact me ✉️</h2>
+<h2 align="left">Connect with me 💻</h2>
 
 ###
 
@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=https_marin@protonmail.com&color=6d4aff&logoColor=6d4aff&labelColor=1b1340&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.instagram.com/marin_cervinschi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.leetcode.com/MarinCervinschi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
 </div>
 
