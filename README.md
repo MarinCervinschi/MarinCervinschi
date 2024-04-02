@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="https://profile-counter.glitch.me/MarinCervinschi/count.svg?"  />
-</div>
-
 ###
 
 <h1 align="left">Hi 👋! My name is Marin Cervinschi ✍🏻</h1>
@@ -19,12 +15,20 @@
 
 ###
 
+<h2 align="left">Contact me ✉️</h2>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=https_marin@protonmail.com&color=6d4aff&logoColor=6d4aff&labelColor=1b1340&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.instagram.com/marin_cervinschi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">I code with 🛠️</h2>
 
 ###
 
@@ -52,6 +56,11 @@
 
 <br clear="both">
 
+
 <img src="https://raw.githubusercontent.com/MarinCervinschi/MarinCervinschi/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/MarinCervinschi/count.svg?"  />
+</div>
