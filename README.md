@@ -22,7 +22,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=https_marin@protonmail.com&color=6d4aff&logoColor=6d4aff&labelColor=1b1340&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/marin-cervinschi-569323320/">
+  <a href="https://www.linkedin.com/in/marin-cervinschi/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.leetcode.com/MarinCervinschi/" target="_blank" >
