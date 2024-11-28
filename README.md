@@ -1,12 +1,22 @@
-###
-
 <h1 align="left">Hi 👋! My name is Marin Cervinschi ✍🏻</h1>
 
-###
+<h2 align="left">🎓 I'm a Software Engineering student at UniMoRe 🏫, from Modena, Italy 🇮🇹</h2>
 
-<h2 align="left">🎓 I'm a Software Engineering student  at UniMoRe 🏫, from Modena Italy 🇮🇹</h2>
+### 👨‍💻 About Me:
+- 📚 Currently in the **final year** of my **Bachelor's Degree in Software Engineering** at the University of Modena and Reggio Emilia.
+- 🌟 Active in student organizations and passionate about leadership and teamwork.
+- 🌍 Proudly part of [**JEMORE**](https://jemore.it/), the Junior Enterprise of Modena and Reggio Emilia, where I serve as **Head of the IT Department**.
+- 💻 Dedicated to designing innovative solutions, exploring cutting-edge technologies, and enhancing my software development skills.
 
-###
+---
+
+### 🚀 My Goals:
+- Complete my **Bachelor's Degree** with a focus on excellence in software engineering.
+- Gain more hands-on experience in **software development** and **IT management**.
+- Collaborate on exciting **open-source projects**.
+- Contribute to impactful initiatives in the **Junior Enterprise movement**.
+  
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarinCervinschi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
