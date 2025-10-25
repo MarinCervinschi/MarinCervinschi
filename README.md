@@ -37,7 +37,7 @@ current:
 previous:
   degree: "B.Sc. Computer Engineering"
   university: "University of Modena and Reggio Emilia (UniMoRe)"
-  graduated: "2024"
+  graduated: "2025"
 ```
 
 <br/>
