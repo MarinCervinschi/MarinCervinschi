@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Marin+Cervinschi;AI+Engineering+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Marin+Cervinschi;AI+Engineering+Student+%F0%9F%A4%96;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
@@ -37,48 +37,105 @@ current:
 previous:
   degree: "B.Sc. Computer Engineering"
   university: "University of Modena and Reggio Emilia (UniMoRe)"
-  graduated: "2025"
+  graduated: "2024"
 ```
 
 <br/>
 
-## 🧠 AI & ML Stack
+## 🛠️ Tech Stack
 
+### 🤖 AI & Machine Learning
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="PyTorch"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="35" alt="Keras"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="OpenCV"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter"/>
+</div>
 
-### Core AI/ML
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="40" alt="AI Core"/>
-<br/><br/>
+<br/>
 
-### Data Science & Vision
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="OpenCV"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="35" alt="Keras"/>
-<br/><br/>
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="Tailwind CSS"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
+</div>
 
-### Full-Stack Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind" height="35" alt="Frontend & Backend"/>
-<br/><br/>
+<br/>
 
-### Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,azure,nginx" height="35" alt="DevOps"/>
-<br/><br/>
+### ⚙️ Backend Development
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express.js"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="Flask"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="35" alt="DotNet"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="Csharp"  />
 
-### Hardware & IoT
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="Arduino"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="Raspberry Pi"/>
-<br/><br/>
+</div>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,python" height="35" alt="Programming Languages"/>
+<br/>
 
+### 🗄️ Databases
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="Prisma"  />
+</div>
+
+<br/>
+
+### 🚀 DevOps & Infrastructure
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="Nginx"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="Bash"/>
 </div>
 
 <br/>
@@ -121,7 +178,7 @@ previous:
   
 ### 💭 Random Dev Quote
   
-!["Ciao"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
