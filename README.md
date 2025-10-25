@@ -1,107 +1,142 @@
-<h1 align="left">Hi 👋! My name is Marin Cervinschi ✍🏻</h1>
+<div align="center">
 
-<h2 align="left">🎓 I'm a Software Engineering student at UniMoRe 🏫, from Modena, Italy 🇮🇹</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Marin+Cervinschi;AI+Engineering+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-### 👨‍💻 About Me:
-- 📚 Currently in the **final year** of my **Bachelor's Degree in Software Engineering** at the University of Modena and Reggio Emilia.
-- 🌟 Active in student organizations and passionate about leadership and teamwork.
-- 🌍 Proudly part of [**JEMORE**](https://jemore.it/), the Junior Enterprise of Modena and Reggio Emilia, where I serve as **Head of the IT Department**.
-- 💻 Dedicated to designing innovative solutions, exploring cutting-edge technologies, and enhancing my software development skills.
+</div>
 
----
-
-### 🚀 My Goals:
-- Complete my **Bachelor's Degree** with a focus on excellence in software engineering.
-- Gain more hands-on experience in **software development** and **IT management**.
-- Collaborate on exciting **open-source projects**.
-- Contribute to impactful initiatives in the **Junior Enterprise movement**.
-  
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarinCervinschi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarinCervinschi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
- <img src="https://streak-stats.demolab.com?user=MarinCervinschi&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://img.shields.io/badge/AI_Engineering-Master's_Student-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/UniMoRe-Modena%2C_Italy-22C55E?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=MarinCervinschi&style=for-the-badge&color=6366F1" alt="Profile Views"/>
 </div>
 
-###
+<br/>
 
-<h2 align="left">Connect with me 💻</h2>
+## 🎯 About Me
 
-###
+**Master's student in Artificial Intelligence Engineering** exploring the frontiers of machine learning, deep learning, and computer vision. Completed my Bachelor's in Computer Engineering and now diving deep into the AI ecosystem.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=https_marin@protonmail.com&color=6d4aff&logoColor=6d4aff&labelColor=1b1340&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/marin-cervinschi/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.leetcode.com/MarinCervinschi/" target="_blank" >
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
-  </a>
-  <a href="https://www.instagram.com/marin_cervinschi/" target="_blank" >
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+🔬 **Currently Exploring:** Neural networks, computer vision algorithms, generative AI  
+🛠️ **Building:** AI-powered applications, IoT projects, full-stack solutions  
+🌱 **Learning:** PyTorch, TensorFlow, CUDA programming, edge AI  
+💡 **Passionate:** Open-source development, innovative technologies, continuous learning
+
+<br/>
+
+## 📚 Education
+
+```yaml
+current:
+  degree: "M.Sc. Artificial Intelligence Engineering"
+  university: "University of Modena and Reggio Emilia (UniMoRe)"
+  location: "Modena, Italy"
+  status: "In Progress"
   
-###
+previous:
+  degree: "B.Sc. Computer Engineering"
+  university: "University of Modena and Reggio Emilia (UniMoRe)"
+  graduated: "2025"
+```
 
-<h2 align="left">I code with 🛠️</h2>
+<br/>
 
-###
+## 🧠 AI & ML Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+<div align="center">
+
+### Core AI/ML
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="40" alt="AI Core"/>
+<br/><br/>
+
+### Data Science & Vision
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="OpenCV"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="35" alt="Keras"/>
+<br/><br/>
+
+### Full-Stack Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind" height="35" alt="Frontend & Backend"/>
+<br/><br/>
+
+### Systems & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,azure,nginx" height="35" alt="DevOps"/>
+<br/><br/>
+
+### Hardware & IoT
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="Arduino"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="Raspberry Pi"/>
+<br/><br/>
+
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,python" height="35" alt="Programming Languages"/>
+
 </div>
 
-###
-###
+<br/>
 
-<br clear="both">
+## 📊 GitHub Analytics
 
-
-<img src="https://raw.githubusercontent.com/MarinCervinschi/MarinCervinschi/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/MarinCervinschi/count.svg?"  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinCervinschi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinCervinschi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MarinCervinschi&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinCervinschi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarinCervinschi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-cervinschi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/MarinCervinschi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marin_cervinschi/)
+[![Email](https://img.shields.io/badge/ProtonMail-6366F1?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:marin@protonmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/MarinCervinschi/MarinCervinschi/output/snake.svg" alt="Snake animation"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+**"Building the future, one algorithm at a time"** 🚀
+
 </div>
