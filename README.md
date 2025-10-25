@@ -121,7 +121,7 @@ previous:
   
 ### 💭 Random Dev Quote
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+!["Ciao"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -137,6 +137,6 @@ previous:
 
 <div align="center">
   
-**"Building the future, one algorithm at a time"** 🚀
+**"What I cannot create, I do not understand"** ✍🏻
 
 </div>
