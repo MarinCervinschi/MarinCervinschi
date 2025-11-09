@@ -63,6 +63,8 @@ previous:
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
   <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo"  />
+  <img width="8"/>  
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="Flask"/>
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
@@ -84,7 +86,7 @@ previous:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinCervinschi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinCervinschi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinCervinschi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br/>
